@@ -18,11 +18,6 @@ Analyzing customer engagement, conversion funnel, and feedback data to uncover w
 | e.g., Video content drives 2.3x more engagement than static posts | Reallocate content budget toward video | Higher engagement rate |
 | e.g., "Shipping delay" is the top negative review theme (mentioned in X% of negative reviews) | Improve delivery SLA communication | Improved feedback score |
 
-*(Add a dashboard screenshot or GIF right below this table — visuals get noticed far more than text)*
-
-`![Dashboard Preview](dashboard/screenshot.png)`
-
----
 
 ## 🧩 Business Problem
 
@@ -56,9 +51,7 @@ ShopEasy, an online retail business, was experiencing declining customer engagem
 | Customer Reviews | Product reviews and ratings | CSV |
 | Social Media Comments | Customer sentiment from social channels | CSV |
 
-*(Fill in actual row counts / date ranges once you have the real data)*
 
----
 
 ## 🔍 Methodology
 
@@ -90,7 +83,6 @@ git clone https://github.com/yourusername/shopeasy-marketing-analytics.git
 cd shopeasy-marketing-analytics
 pip install -r requirements.txt
 ```
-*(adjust based on your actual setup)*
 
 ---
 
